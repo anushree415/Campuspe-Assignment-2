@@ -1,71 +1,32 @@
-HTML Authentication System (CampusPe Assignment 2)
+# Authentication System Styling
 
- Assignment Overview
-This project is a simple HTML-based authentication system created using only basic HTML structure and anchor tag redirections.
+This project is a styled authentication system built using HTML, Bootstrap 5, and custom CSS.
 
-The system includes 5 pages:
-- login.html
-- register.html
-- forgot-password.html
-- reset-password.html
-- dashboard.html
+## Pages Included
+- Login Page
+- Register Page
+- Forgot Password Page
+- Reset Password Page
+- Dashboard Page
 
-No CSS or JavaScript logic is used for authentication functionality. The project focuses purely on HTML structure and navigation using anchor tags.
+## Technologies Used
+- HTML
+- Bootstrap 5
+- Custom CSS
 
- Project Structure
+## Screenshots
 
-Campuspe-Assignment-2/
-│
-├── login.html
-├── register.html
-├── forgot-password.html
-├── reset-password.html
-├── dashboard.html
-├── style.css (optional styling)
-└── README.md
+### Login Page
+![Login](screenshots/login.png)
 
----
+### Register Page
+![Register](screenshots/register.png)
 
- Navigation Flow
+### Forgot Password Page
+![Forgot Password](screenshots/forgot-password.png)
 
-- Login → Register
-- Login → Forgot Password
-- Register → Login
-- Forgot Password → Reset Password
-- Reset Password → Login
-- Login → Dashboard (after successful login simulation)
-- Dashboard → Logout (redirects to Login)
+### Reset Password Page
+![Reset Password](screenshots/reset-password.png)
 
-All page redirections are implemented using HTML `<a>` anchor tags.
-
----
-
- How to Run
-
-1. Download or clone the repository.
-2. Open `login.html` in any web browser.
-3. Use the links to navigate between pages.
-
----
-
- Important Notes
-
-- This project does not include backend validation.
-- No JavaScript is used.
-- The repository is public as required for grading.
-- All links have been tested for proper redirection.
-
----
-
-Submission Details
-
-This repository has been created as per the assignment instructions:
-- 5 HTML pages created
-- Proper anchor tag redirections implemented
-- README.md included
-- Repository is public
-
----
-
-Author
-Anushree.D
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
