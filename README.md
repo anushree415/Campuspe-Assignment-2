@@ -1,91 +1,118 @@
-# CampusPe Authentication System
+# 🚀 CampusPe Authentication System
 
-This project is a simple **Authentication System UI** developed using **HTML, CSS, and Bootstrap 5**.  
-It demonstrates the basic structure of a login-based web application with multiple authentication pages.
+This project is a **Frontend Authentication System UI** developed using **HTML, CSS, and Bootstrap 5**.
+It demonstrates the structure of a basic login-based web application with multiple authentication pages and a dashboard interface.
 
-The project includes responsive pages for login, registration, password recovery, and a dashboard interface.
-
----
-
-## 🚀 Features
-
-- User Login Page
-- User Registration Page
-- Forgot Password Page
-- Reset Password Page
-- Dashboard Page after login
-- Responsive UI using Bootstrap 5
-- Clean and simple authentication workflow
-- Modern UI styling
+The project focuses on **responsive design, clean UI, and simple navigation flow** between authentication pages.
 
 ---
 
-## 🛠 Technologies Used
+# ✨ Features
 
-- HTML5
-- CSS3
-- Bootstrap 5
-- Bootstrap Icons
-
----
-
-## 📂 Project Structure
-
----
-
-## 📸 Screenshots
-
-### 🔐 Login Page
-![Login Page](login.png)
+✔ User Login Page
+✔ User Registration Page
+✔ Forgot Password Page
+✔ Reset Password Page
+✔ Dashboard Page after login
+✔ Responsive design using Bootstrap
+✔ Simple authentication flow UI
+✔ Clean and modern layout
 
 ---
 
-### 📝 Register Page
-![Register Page](register.png)
+# 🛠 Technologies Used
+
+* **HTML5**
+* **CSS3**
+* **Bootstrap 5**
+* **Bootstrap Icons**
 
 ---
 
-### ❓ Forgot Password Page
-![Forgot Password](forgot-password.png)
+# 📂 Project Structure
+
+```
+Campuspe-Assignment-2
+│
+├── login.html
+├── register.html
+├── forgot-password.html
+├── reset-password.html
+├── dashboard.html
+├── style.css
+├── README.md
+│
+└── screenshots
+    ├── login.png
+    ├── register.png
+    ├── forgot-password.png
+    ├── reset-password.png
+    └── dashboard.png
+```
 
 ---
 
-### 🔄 Reset Password Page
-![Reset Password](reset-password.png)
+# 📸 Project Screenshots
+
+## 🔐 Login Page
+
+![Login Page](screenshots/login.png)
 
 ---
 
-### 📊 Dashboard
-![Dashboard](dashboard.png)
+## 📝 Register Page
+
+![Register Page](screenshots/register.png)
 
 ---
 
-## 📖 How It Works
+## ❓ Forgot Password Page
 
-1. User enters credentials on the **Login Page**
-2. If the user does not have an account, they can go to **Register Page**
-3. If the user forgets their password, they can use **Forgot Password**
-4. Password can be updated using **Reset Password Page**
-5. After login, the user is redirected to the **Dashboard Page**
+![Forgot Password Page](screenshots/forgot-password.png)
 
 ---
 
-## 📌 Purpose of This Project
+## 🔄 Reset Password Page
 
-This project was developed as part of a **Frontend Assignment** to demonstrate:
-
-- Multi-page authentication UI
-- Bootstrap integration
-- Basic navigation flow between pages
-- Responsive UI design
+![Reset Password Page](screenshots/reset-password.png)
 
 ---
 
-## 👩‍💻 Author
+## 📊 Dashboard Page
 
-**Anushree.D**
+![Dashboard Page](screenshots/dashboard.png)
 
-GitHub Repository:  
+---
+
+# 📖 Application Flow
+
+1️⃣ User opens the **Login Page**
+2️⃣ If the user does not have an account, they can navigate to the **Register Page**
+3️⃣ If the user forgets the password, they can access the **Forgot Password Page**
+4️⃣ Password can be updated using the **Reset Password Page**
+5️⃣ After successful login, the user is redirected to the **Dashboard Page**
+
+---
+
+# 🎯 Purpose of This Project
+
+This project was created as part of a **Frontend Development Assignment** to demonstrate:
+
+* Multi-page authentication UI
+* Bootstrap integration
+* Page navigation between authentication screens
+* Responsive UI design
+
+---
+
+# 👩‍💻 Author
+
+**Anushree.D
+USN:1RF22IS010**
+
+GitHub Repository:
 https://github.com/anushree415/Campuspe-Assignment-2
 
 ---
+
+
